@@ -2,6 +2,8 @@ body {
     text-align: center;
     font-family: arial;
     background-color: rgb(192, 233, 233);
+    width: 600px;
+    font-weight: bold;
 }
 
 img {
