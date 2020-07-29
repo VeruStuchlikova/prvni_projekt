@@ -4,8 +4,16 @@ body {
     background-color: rgb(192, 233, 233);
     width: 600px;
     font-weight: bold;
+    
+}
+.stranka {
+    align-self: center;
 }
 
 img {
+    border-radius: 30px;
+}
+.odstavce {
+    background: rgb(216, 186, 233);
     border-radius: 30px;
 }
