@@ -1,3 +1,9 @@
 body {
     text-align: center;
+    font-family: arial;
+    background-color: rgb(192, 233, 233);
+}
+
+img {
+    border-radius: 30px;
 }
